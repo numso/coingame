@@ -1,0 +1,7 @@
+[
+  { "name": "bubba",   "score": 110, "levels": [100, 10, 0] },
+  { "name": "fred",    "score": 80,  "levels": [80, 0, 0]   },
+  { "name": "joe",     "score": 50,  "levels": [50, 0, 0]   },
+  { "name": "gregory", "score": 30,  "levels": [30, 0, 0]   },
+  { "name": "hmrfl",   "score": 10,  "levels": [10, 0, 0]   }
+]

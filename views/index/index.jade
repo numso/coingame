@@ -1,0 +1,10 @@
+extends ../layout
+
+block content
+  .wrapper
+    .loading-box
+      .loading-text Loading...
+      .loading-container
+        .loading
+    canvas(width=775, height=530)#game
+  .user(style="display:none;")= JSON.stringify(user)
